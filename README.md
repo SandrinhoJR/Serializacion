@@ -1,6 +1,6 @@
-# Serializacion
+# Serializacion y Herencia
 
-en este taller podemos ver implementada la serializacion y un ejemplo de como se usa
+en este taller podemos ver implementada la serliazlicacion y la herencia y un ejemplo de como se usa
 
 - Git
 - NetBeans o un programa que trabaje con java
