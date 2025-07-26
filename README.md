@@ -1,1 +1,15 @@
 # Serializacion
+
+en este taller podemos ver implementada la serializacion y un ejemplo de como se usa
+
+- Git
+- NetBeans o un programa que trabaje con java
+
+  ## Cómo usar
+
+1. Clona el repositorio
+2. Ejecuta el proyecto desde el MAIN
+
+## Licencia
+
+MIT
